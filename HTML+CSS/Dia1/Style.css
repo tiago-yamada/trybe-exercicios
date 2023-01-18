@@ -1,10 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
 h1 {
-    color: orange; font-size: 65px;
+    color: green; font-size: 65px;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
 }
 h2 {
-    color: gold;
+    color: cyan;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
 }
 body {
     background-color: #1F2631;
@@ -23,4 +31,9 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-size: 2em;
+}
+#header{
+    background-image: url(Yuuka.jpg);
+    background-position: 30px;
+    padding: 60px;
 }
