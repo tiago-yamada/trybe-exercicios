@@ -19,13 +19,8 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
 }
-ol {
-    color: gold;
-    font-weight: bold;
-    line-height: 40px;
-}
 .pul {
-    background-color: burlywood;
+    color: white;
 }
 p {
     font-family: Arial, Helvetica, sans-serif;
@@ -36,4 +31,11 @@ p {
     background-image: url(Yuuka.jpg);
     background-position: 30px;
     padding: 60px;
+}
+#bloco1{
+    padding: 15px;
+}
+#listas {
+    padding: 50px;
+    line-height: 50px;
 }
